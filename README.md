@@ -38,6 +38,13 @@
 
 <br>
 
+## 데이터셋
+- Video Game Sales
+- 데이터셋 크기: (16598, 9)
+- [데이터 출처](https://www.kaggle.com/datasets/gregorut/videogamesales)
+
+<br>
+
 ## 결론
 
 #### 타깃 지역
